@@ -33,6 +33,28 @@ Shopify, Wordpress, WooCommerce, Rails / Sinatra, Laravel / Symfony, Express, Ko
 
 *Learning: Phoenix*
 
+## Open Source
+
+I love open source - I use and contibute. You can find my full open source work on [my Github](https://github.com/ohmybrew) page. Some currently starred projects:
+
+`PHP / Laravel`
+**Laravel Shopify**: ([Repo](https://github.com/ohmybrew/laravel-shopify)) A full-featured Laravel package for aiding in Shopify App development.
+
+`PHP`
+**Basic Shopify API**: ([Repo](https://github.com/ohmybrew/Basic-Shopify-API)) A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
+
+`Typescript`
+**SCSM**: ([Repo](https://github.com/ohmybrew/SCSM)) Helper manager for modifications to Shopify Plus checkouts through Javascript.
+
+`PHP`
+**Blockchain PHP**: ([Repo](https://github.com/ohmybrew/Blockchain-PHP)) Blockchain example implemented in PHP.
+
+`PHP`
+**With**: ([Repo](https://github.com/ohmybrew/with)) A Python with-statement clone for PHP.
+
+`Bash`
+**CloudApp**: ([Repo](https://github.com/ohmybrew/CloudApp-Bash)) Basic CloudApp implementation for Linux written in Bash.
+
 ## Experience
 
 `Jan 2014 - Present`
@@ -49,10 +71,17 @@ Daily duties include:
 - Manage and oversee our developers
 - Delegate projects and tasks
 - Crafting and creating development processes for the team
-- Developing custom Shopify apps, themes, connectors and more
+- Developing custom Shopify apps, themes, connectors, and more
 - Publish various open source software revolving around Shopify
 - Handle deployment of themes, apps, and systems
-- Lead in projection for future implementations and growth within development for the team
+- Lead in projection for future implementations and<br>growth within development for the team
+
+`Oct 2002 - Present`
+**Blue Wolf Design Group**, Newfoundland
+
+*Role: Lead Developer*
+
+A family-run operation on "The Rock" with a role of developing, maintaining, and deploying websites for various clients who are mainly Newfoundland-based. A reach that extends wide to various types of clients; from pharmacies to outfitting groups, and non-profit support groups.
 
 `Sep 2012 - Aug 2013`
 **Dixon Designs**, Los Gatos, California
@@ -83,38 +112,9 @@ Developed and maintained custom client websites and applications through various
 - Managed and maintained custom client websites
 - Managed and maintained custom client applications and plugins
 - Worked in collaboration with other remote teams as a subcontractor
-- Utilized various languages for builds such as PHP, Python, Ruby on the backend with the standard frontend toolsets
+- Utilized various languages for builds such as PHP, Python, Ruby on the<br>backend with the standard frontend toolsets
 - Worked with many platforms for websites and apps
   - CMS systems (Wordpress, Typo3, Drupal)
   - Forum systems (phpBB, Invision)
   - Commerce systems (Shopify, BigCommerce)
   - Misc. projects with Rails, Laravel, Symfony, Django
-
-`Oct 2002 - Present`
-**Blue Wolf Design Group**, Newfoundland
-
-*Role: Developer*
-
-A family run operation on "The Rock" with a role of developing, maintaining, and deploying websites for various clients who mainly Newfoundland-based. A reach that extends wide from pharmacies to outfitting groups, and non-profit support groups.
-
-## Open Source
-
-I love open source - I use and contibute. You can find my full open source work on [my Github](https://github.com/ohmybrew) page. Some currently starred projects:
-
-`PHP / Laravel`
-**Laravel Shopify**: ([Repo](https://github.com/ohmybrew/laravel-shopify)) A full-featured Laravel package for aiding in Shopify App development.
-
-`PHP`
-**Basic Shopify API**: ([Repo](https://github.com/ohmybrew/Basic-Shopify-API)) A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
-
-`Typescript`
-**SCSM**: ([Repo](https://github.com/ohmybrew/SCSM)) Helper manager for modifications to Shopify Plus checkouts through Javascript.
-
-`PHP`
-**Blockchain PHP**: ([Repo](https://github.com/ohmybrew/Blockchain-PHP)) Blockchain example implemented in PHP.
-
-`PHP`
-**With**: ([Repo](https://github.com/ohmybrew/with)) A Python with-statement clone for PHP.
-
-`Bash`
-**CloudApp**: ([Repo](https://github.com/ohmybrew/CloudApp-Bash)) Basic CloudApp implementation for Linux written in Bash.
