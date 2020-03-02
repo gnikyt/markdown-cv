@@ -83,6 +83,9 @@ p code {
 	right: -20%;
 }
 
+small {
+	font-size: .8em;
+}
 
 ul {
 	position: relative;
