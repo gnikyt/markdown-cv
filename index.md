@@ -5,17 +5,17 @@ title: Tyler King's CV
 # Tyler King
 Developing solutions through experience.
 
-father \| homebrewer \| motorcycle enthusiast \| experienced programmer
+father \| motorcycle enthusiast \| experienced programmer
 
 <div id="webaddress">
-<i class="fas fa-at"></i> <a href="tyler@osiset.com">tyler@osiset.com</a> /
-<i class="fas fa-globe-americas"></i> <a href="https://osiset.com" target="_blank">osiset.com</a> /
-<i class="fab fa-github-alt"></i> <a href="https://github.com/osiset" target="_blank">osiset</a>
+<i class="fas fa-at"></i> <a href="tyler.n.king@gmail.com">tyler.n.king@gmail.com</a> /
+<i class="fas fa-globe-americas"></i> <a href="https://gnikyt.com" target="_blank">gnikyt.com</a> /
+<i class="fab fa-github-alt"></i> <a href="https://github.com/gnikyt" target="_blank">gnikyt</a>
 </div>
 
 ## Currently
 
-CTO at [Little Rocket](https://littlerocket.io).<br>
+Development Director & Partner at [Little Rocket](https://littlerocket.io).<br>
 <small>tyler.king@littlerocket.io</small>
 
 ### Specialization
@@ -24,7 +24,7 @@ Developing backend systems, Shopify-powered applications, and integrations betwe
 
 ### Language Proficiency
 
-PHP, Ruby, Python, Golang, Javascript/Typescript, CSS/SASS, SQL, Shell, & more.
+Golang, NodeJS/Javascript/Typescript, PHP, Python, CSS/SASS, SQL, Shell, & more.
 
 ### Framework Proficiency
 
@@ -43,7 +43,7 @@ In everything I code, I believe in following the single-purpose principle. Each 
 `Jan 2014 - Present`
 **Little Rocket**, Toronto, Canada
 
-*Role: CTO*
+*Role: Development Director / Partner*
 
 Leading a team of developers within our full-service agency, focused in the Canadian cannabis space revolving around the Shopify platform. Developing first-class custom Shopify themes, Shopify apps, connectors and integrations for various clients across North America.
 
@@ -104,35 +104,32 @@ Developed and maintained custom client websites and applications through various
 
 ## Open Source
 
-I love open source - I both use and contribute. You can find my full open source work on [my Github](https://github.com/osiset) page. Some currently starred projects:
+I love open source - I both use and contribute. You can find my full open source work on [my Github](https://github.com/gnikyt) page. Some currently starred projects:
 <br><br>
 
-`PHP / Laravel`
-**Laravel Shopify**: ([Repo](https://github.com/osiset/laravel-shopify)) A full-featured Laravel package for aiding in Shopify App development.
+`PHP`
+**Laravel Shopify**: ([Repo](https://github.com/gnikyt/laravel-shopify)) A full-featured Laravel package for aiding in Shopify App development.
+
+`NodeJS`
+**liquid-fn-tester**: ([Repo](https://github.com/gnikyt/liquid-fn-tester)) A tool to unit test Shopify snippets.
 
 `Golang`
-**gowith**: ([Repo](https://github.com/osiset/gowith)) A Python with-statement clone for Golang.
+**gowith**: ([Repo](https://github.com/gnikyt/gowith)) A Python with-statement clone for Golang.
 
 `Golang`
-**http_shopify_webhook**: ([Repo](https://github.com/osiset/http_shopify_webhook)) A net/http middleware for validating Shopify webhooks for Golang servers.
+**http_shopify_webhook**: ([Repo](https://github.com/gnikyt/http_shopify_webhook)) A net/http middleware for validating Shopify webhooks for Golang servers.
 
 `PHP`
-**Basic Shopify API**: ([Repo](https://github.com/osiset/Basic-Shopify-API)) A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
-
-`Typescript`
-**SCSM**: ([Repo](https://github.com/osiset/SCSM)) Helper manager for modifications to Shopify Plus checkouts through Javascript.
-
-`Typescript`
-**Shopify Frontend Helper**: ([Repo](https://github.com/osiset/Shopify-Frontend-Helper)) A tool to help manage API calls for Shopify themes. Includes a discount code verification snippet.
+**Basic Shopify API**: ([Repo](https://github.com/gnikyt/Basic-Shopify-API)) A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
 
 `Golang`
-**themedeploy**: ([Repo](https://github.com/osiset/themedeploy)) An simple automated, delta theme deployer for Shopify.
+**theme_cleaner**: ([Repo](https://github.com/gnikyt/theme_cleaner)) A tool to help delete multiple Shopify themes for cleanup.
 
 `Golang`
-**Gochain**: ([Repo](https://github.com/osiset/gochain)) Blockchain example implemented in Golang.
+**Gochain**: ([Repo](https://github.com/gnikyt/gochain)) Blockchain example implemented in Golang.
 
 `PHP`
-**With**: ([Repo](https://github.com/osiset/with)) A Python with-statement clone for PHP.
+**With**: ([Repo](https://github.com/gnikyt/with)) A Python with-statement clone for PHP.
 
 `Bash`
-**CloudApp**: ([Repo](https://github.com/osiset/CloudApp-Bash)) Basic CloudApp implementation for Linux written in Bash.
+**Droplr**: ([Repo](https://github.com/gnikyt/droplr-bash)) Basic Droplr support for Linux written in Bash.
