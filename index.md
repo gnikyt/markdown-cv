@@ -5,7 +5,7 @@ title: Tyler King's CV
 # Tyler King
 Developing solutions through experience.
 
-father \| motorcycle enthusiast \| experienced programmer
+experienced programmer \| father \| motorcycle enthusiast
 
 <div id="webaddress">
 <i class="fas fa-at"></i> <a href="tyler.n.king@gmail.com">tyler.n.king@gmail.com</a> /
@@ -15,8 +15,7 @@ father \| motorcycle enthusiast \| experienced programmer
 
 ## Currently
 
-Development Director & Partner at [Little Rocket](https://littlerocket.io).<br>
-<small>tyler.king@littlerocket.io</small>
+Seeking full-time employment; most recently a Development Director at [Little Rocket](https://littlerocket.io).
 
 ### Specialization
 
@@ -24,11 +23,11 @@ Developing backend systems, Shopify-powered applications, and integrations betwe
 
 ### Language Proficiency
 
-Golang, NodeJS/Javascript/Typescript, PHP, Python, CSS/SASS, SQL, Shell, & more.
+Golang, NodeJS/Javascript/Typescript, PHP, Python, CSS/SASS, databases, & more.
 
 ### Framework Proficiency
 
-Shopify, Wordpress, Rails, Laravel & Symfony, Express & Koa, Docker, & more.
+Shopify, Wordpress, Rails, Laravel, Symfony, Express & Koa, Docker, & more.
 
 ### Other Skillsets
 
@@ -36,35 +35,31 @@ React Native (BLE & NFC communications) to embedded hardware systems.
 
 ### Programming Values
 
-In everything I code, I believe in following the single-purpose principle. Each piece should do one thing and do it well. This will lead to a maintainable codebase which is stable and able to grow with you. SRP, CQR, DRY, and SOLID, are amoung the many principles I follow to achieve that goal.
+In everything I code, I believe in following the single-purpose principle. Each piece should do one thing and do it well. This will lead to a maintainable codebase which is stable and able to grow with you. SRP, CQR, DRY, are amoung the many principles I follow to achieve that goal.
 
 ## Career Experience
 
-`Jan 2014 - Present`
+`Jan 2014 - Nov 2023`
 **Little Rocket**, Toronto, Canada
 
-*Role: Development Director / Partner*
+*Role: Development Director*
 
-Leading a team of developers within our full-service agency, focused in the Canadian cannabis space revolving around the Shopify platform. Developing first-class custom Shopify themes, Shopify apps, connectors and integrations for various clients across North America.
+Leading a team of developers within our full-service agency, revolving around the Shopify platform for medium to enterprise clients, as well as many clients in the Canadian cannabis space. Developed first-class custom Shopify themes, Shopify apps, Shopify checkouts, extensions, connectors, and integrations for various clients across North America.
 
-Heading custom development for clients such as Universal Music, Leon's, The Brick, Nobis, Kappa, Supreme Cannabis and more.
+Succesfully lead development of various system-critial apps and programs for clients which handles millions of dollars in online sales; for clients such as Universal Music, Leon's, The Brick, Nobis, Kappa, Supreme Cannabis, and more.
 
-Daily duties include:
+Daily duties included:
 
-- Manage and oversee development team
-- Delegate projects and tasks
-- Crafting and creating development processes for the team
-- Developing custom Shopify apps, themes, connectors, and more
+- Managment and overseement of development team
+- Setup, delegation of projects and tasks
+- Consulting for clients
+- Project estimation and scoping
+- Crafting and maintaining development processes for the development team
+- Developing custom Shopify apps, themes, extension, connectors, and more
 - Publish various open source software revolving around Shopify
 - Handle deployment of themes, apps, and systems
+- Creation of automated systems for internal and clients
 - Lead in projection for future implementations and<br>growth within development for the team
-
-`Oct 2002 - Present`
-**Blue Wolf Design Group**, Newfoundland
-
-*Role: Lead Developer*
-
-A family-run operation on "The Rock" with a role of developing, maintaining, and deploying websites for various clients who are mainly Newfoundland-based. For industries such as pharamacies, hunting outfitters, tourism, and more.
 
 `Sep 2012 - Aug 2013`
 **Dixon Designs**, Los Gatos, California
@@ -108,7 +103,10 @@ I love open source - I both use and contribute. You can find my full open source
 <br><br>
 
 `PHP`
-**Laravel Shopify**: ([Repo](https://github.com/gnikyt/laravel-shopify)) A full-featured Laravel package for aiding in Shopify App development.
+**Laravel Shopify**: ([Repo](https://github.com/gnikyt/laravel-shopify)) A popular (now forked) full-featured Laravel package for aiding in Shopify App development.
+
+`Golang`
+**cq**: ([Repo](https://github.com/gnikyt/cq)) A simple, composible, and auto-scaling worker pool queue.
 
 `NodeJS`
 **liquid-fn-tester**: ([Repo](https://github.com/gnikyt/liquid-fn-tester)) A tool to unit test Shopify snippets.
@@ -123,13 +121,7 @@ I love open source - I both use and contribute. You can find my full open source
 **Basic Shopify API**: ([Repo](https://github.com/gnikyt/Basic-Shopify-API)) A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
 
 `Golang`
-**theme_cleaner**: ([Repo](https://github.com/gnikyt/theme_cleaner)) A tool to help delete multiple Shopify themes for cleanup.
-
-`Golang`
 **Gochain**: ([Repo](https://github.com/gnikyt/gochain)) Blockchain example implemented in Golang.
 
 `PHP`
 **With**: ([Repo](https://github.com/gnikyt/with)) A Python with-statement clone for PHP.
-
-`Bash`
-**Droplr**: ([Repo](https://github.com/gnikyt/droplr-bash)) Basic Droplr support for Linux written in Bash.
