@@ -8,14 +8,14 @@ Developing solutions through experience.
 experienced programmer \| father \| motorcycle enthusiast
 
 <div id="webaddress">
-<i class="fas fa-at"></i> <a href="tyler.n.king@gmail.com">tyler.n.king@gmail.com</a> /
+<i class="fas fa-at"></i> <a href="me@gnikyt.com">me@gnikyt.com</a> /
 <i class="fas fa-globe-americas"></i> <a href="https://gnikyt.com" target="_blank">gnikyt.com</a> /
 <i class="fab fa-github-alt"></i> <a href="https://github.com/gnikyt" target="_blank">gnikyt</a>
 </div>
 
 ## Currently
 
-Seeking full-time employment; most recently a Development Director at [Little Rocket](https://littlerocket.io).
+Co-founder, CTO at [Shopped](https://shopped.agency/).
 
 ### Specialization
 
@@ -38,6 +38,13 @@ React Native (BLE & NFC communications) to embedded hardware systems.
 In everything I code, I believe in following the single-purpose principle. Each piece should do one thing and do it well. This will lead to a maintainable codebase which is stable and able to grow with you. SRP, CQR, DRY, are amoung the many principles I follow to achieve that goal.
 
 ## Career Experience
+
+`Dec 2023 - Present`
+**Shopped**, Toronto, Canada
+
+*Role: CTO*
+
+Founded in 2023 by three friends with deep roots in the Shopify ecosystem, with 30 years of combined Shopify agency experience. Valuing client relationships built on trust and communication, we craft development-focused solutions for anything Shopify... themes, apps, integrations, and consulting.
 
 `Jan 2014 - Nov 2023`
 **Little Rocket**, Toronto, Canada
