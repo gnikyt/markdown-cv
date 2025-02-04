@@ -23,11 +23,11 @@ Developing backend systems, Shopify-powered applications, and integrations betwe
 
 ### Language Proficiency
 
-Golang, NodeJS/Javascript/Typescript, PHP, Python, CSS/SASS, databases, & more.
+Golang, Javascript/Typescript, PHP, Python, Ruby, CSS/SASS, databases, & more.
 
-### Framework Proficiency
+### Tooling Proficiency
 
-Shopify, Wordpress, Rails, Laravel, Symfony, Express & Koa, Docker, & more.
+Shopify, Wordpress, Rails, Laravel, Symfony, Express & Koa, Docker, servers, CI/Actions, & more.
 
 ### Other Skillsets
 
@@ -35,7 +35,7 @@ React Native (BLE & NFC communications) to embedded hardware systems.
 
 ### Programming Values
 
-In everything I code, I believe in following the single-purpose principle. Each piece should do one thing and do it well. This will lead to a maintainable codebase which is stable and able to grow with you. SRP, CQR, DRY, are amoung the many principles I follow to achieve that goal.
+I adhere to the principle of simplicity and focus in all of my code. Each component should serve a single, well-defined purpose to ensure clarity and maintainability. This approach leads to a stable and scalable codebase that can evolve over time. I consistently apply best practices such as the SRP/DRY principles, CQR Segregation, and more to achieve this objective. As well, I believe in always learning and listening - self improvement crafts better code.
 
 ## Career Experience
 
@@ -46,6 +46,8 @@ In everything I code, I believe in following the single-purpose principle. Each 
 
 Founded in 2023 by three friends with deep roots in the Shopify ecosystem, with 30 years of combined Shopify agency experience. Valuing client relationships built on trust and communication, we craft development-focused solutions for anything Shopify... themes, apps, integrations, and consulting.
 
+---
+
 `Jan 2014 - Nov 2023`
 **Little Rocket**, Toronto, Canada
 
@@ -53,7 +55,7 @@ Founded in 2023 by three friends with deep roots in the Shopify ecosystem, with 
 
 Leading a team of developers within our full-service agency, revolving around the Shopify platform for medium to enterprise clients, as well as many clients in the Canadian cannabis space. Developed first-class custom Shopify themes, Shopify apps, Shopify checkouts, extensions, connectors, and integrations for various clients across North America.
 
-Succesfully lead development of various system-critial apps and programs for clients which handles millions of dollars in online sales; for clients such as Universal Music, Leon's, The Brick, Nobis, Kappa, Supreme Cannabis, and more.
+Succesfully lead development of various system-critial apps and programs for clients which handles millions of dollars in online sales; for clients such as **Universal Music**, **Leon's**, **The Brick**, **Nobis**, **Kappa**, **Supreme Cannabis**, and more.
 
 Daily duties included:
 
@@ -68,6 +70,8 @@ Daily duties included:
 - Creation of automated systems for internal and clients
 - Lead in projection for future implementations and<br>growth within development for the team
 
+---
+
 `Sep 2012 - Aug 2013`
 **Dixon Designs**, Los Gatos, California
 
@@ -76,6 +80,8 @@ Daily duties included:
 Developed a full featured niche custom platform for those in the beauty industry.
 
 Utilized various backend and frontend systems/languages for the website and API such as AWS for deployment, Symfony (PHP), Flask (Python), SASS and Javascript.
+
+---
 
 `Mar 2011 - Aug 2011`
 **Visionx Creative**, Hollister, California
@@ -86,6 +92,8 @@ Short term contract to develop and maintain custom websites and plugins for Visi
 
 - Worked in collaboration with other developers
 - Developed Wordpress and WooCommerce websites and plugins
+
+---
 
 `Oct 2005 - Jan 2014`
 **Freelance**, Newfoundland
@@ -115,9 +123,6 @@ I love open source - I both use and contribute. You can find my full open source
 `Golang`
 **cq**: ([Repo](https://github.com/gnikyt/cq)) A simple, composible, and auto-scaling worker pool queue.
 
-`NodeJS`
-**liquid-fn-tester**: ([Repo](https://github.com/gnikyt/liquid-fn-tester)) A tool to unit test Shopify snippets.
-
 `Golang`
 **gowith**: ([Repo](https://github.com/gnikyt/gowith)) A Python with-statement clone for Golang.
 
@@ -132,3 +137,9 @@ I love open source - I both use and contribute. You can find my full open source
 
 `PHP`
 **With**: ([Repo](https://github.com/gnikyt/with)) A Python with-statement clone for PHP.
+
+`Ruby`
+**Guts** (old): ([Repo](https://github.com/gnikyt/guts)) A complete Rails CMS allowing for custom pages, post types, and extensions, like Wordpress.
+
+`NodeJS`
+**liquid-fn-tester** (old): ([Repo](https://github.com/gnikyt/liquid-fn-tester)) A tool to unit test Shopify snippets.
